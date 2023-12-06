@@ -1,0 +1,4 @@
+rootProject.name = 'temp_boutique_pharm_44877'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+includeBuild('../node_modules/react-native-gradle-plugin')
