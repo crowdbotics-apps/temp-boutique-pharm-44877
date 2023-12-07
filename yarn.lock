@@ -1461,7 +1461,7 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
-"@modules/login@file:./modules/login/":
+"@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1470,6 +1470,9 @@
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
+  version "1.0.0"
+
+"@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview/":
   version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
